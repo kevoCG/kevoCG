@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Developer+(3%2B+years)+%7C+Java%2C+Python%2C+Node.js;MSc(c)+Data+Science+%7C+Predictive+Modeling+%26+Data+Pipelines;Mechatronics+Engineering+base+%7C+IoT%2C+Edge+AI+%26+Real-Time+Data;Building+robust+architectures+at+the+intersection+of+Software+%26+Data)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-cabrera-63b2641a5"><img src="https://img.shields.io/badge/LinkedIn-Kevin%20Cabrera-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kevin.42009@hotmail.com"><img src="https://img.shields.io/badge/Email-kevin.42009%40hotmail.com-1e293b?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Lima%2C%20Per%C3%BA-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-059669?style=flat-square" alt="Status" />
@@ -126,10 +125,9 @@ Mi fortaleza radica en la convergencia entre **arquitectura de software empresar
 
 <div align="center">
 
-### 🤝 Conectemos
+### 📬 Contacto
 ¿Interesado en colaborar en proyectos de backend de alta escala, modelos de Machine Learning o integración IoT?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar%20con%20Kevin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-cabrera-63b2641a5)
 [![Email](https://img.shields.io/badge/Email-kevin.42009%40hotmail.com-1e293b?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kevin.42009@hotmail.com)
 
 </div>
