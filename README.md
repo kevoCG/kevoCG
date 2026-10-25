@@ -97,29 +97,6 @@ Mi fortaleza radica en la convergencia entre **arquitectura de software empresar
 | **Enterprise Backend Services** | Java, Spring Boot, JPA/Hibernate, SQL | APIs de alta disponibilidad con autenticación y persistencia relacional. |
 | **IoT Sensor Telemetry & Analytics** | Python, Node.js, MQTT/WebSockets, C++ | Adquisición de señales físicas, almacenamiento en base de datos y visualización analítica. |
 
----
-
-## 📊 Métricas en GitHub
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kevoCG&show_icons=true&theme=github_dark&hide_border=false&border_color=30363D&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Estadísticas de GitHub" />
-    </td>
-    <td align="center">
-      <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevoCG&layout=compact&theme=github_dark&hide_border=false&border_color=30363D&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevoCG&theme=github_dark&hide_border=false&border_color=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
